@@ -1,0 +1,9 @@
+requests
+python-dotenv
+argparse
+urllib3
+datetime
+socket
+os
+re
+time
